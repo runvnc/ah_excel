@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: ah_excel
-Version: 1.0.0
-Summary: A plugin for Excel file operations and analysis
-Requires-Python: >=3.7
-Requires-Dist: openpyxl
-Provides-Extra: dev
-Requires-Dist: pytest; extra == "dev"
